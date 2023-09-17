@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[52]:
-
-
 #keras MLP Regressor , 2023-02-25
 
 # Steps
